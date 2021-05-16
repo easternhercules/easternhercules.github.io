@@ -6,14 +6,6 @@ img: /assets/img/mapscreencap_stormvuln.png
 redirect: https://codepen.io/easternhercules/full/RwRJwag
 importance: 1
 category: maps
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mapscreencap_stormvuln.png' | relative_url }}" alt="" title="web map comparing vulnerable populations and major storms during 2020 in the United States"/>
-    </div>
-</div>
-<div class="caption">
-    web map comparing vulnerable populations and major storms during 2020 in the United States
-</div>
 ---
 
 Every project has a beautiful feature showcase page.
