@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1
+title: 
 description: web map comparing vulnerable populations and major storms during 2020 in the United States
 img: /assets/img/mapscreencap_stormvuln.png
 redirect: https://codepen.io/easternhercules/full/RwRJwag
