@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /portfolio/
-title: portfolio
-description: publications, projects, and other work
+permalink: /publications/
+title: publications
+description: publications
 years: [2020, 2021]
 nav: true
 ---
