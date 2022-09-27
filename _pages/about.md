@@ -15,6 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m `Julian`. I live in the Washington, DC metropolitan area and am a graduate of the University of Maryland, Baltimore County (Geography & Environmental Systems MS & BA + GIS Certificate with Distinction).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my time as an undergraduate, I worked as a research assistant on various projects and served as a lab proctor; as a graduate student I mentored undergrads in my advisor (Dr. Chris Hawn)’s lab. I also held several internships, including at the United States Environmental Protection Agency’s Risk Assessment Division.
+
+My expertise is in `data science` (GIS, statistics, AI/ML), but I also have background in social science, public policy, and biology. I am currently working in the consulting industry serving government clients.
