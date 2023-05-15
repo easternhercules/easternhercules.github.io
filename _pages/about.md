@@ -19,4 +19,4 @@ I’m `Julian`. I live in the Washington, DC metropolitan area and am a graduate
 
 During my time as an undergraduate, I worked as a research assistant on various projects and served as a lab proctor; as a graduate student I mentored undergrads in my advisor (Dr. Chris Hawn)’s lab. I also held several internships, including at the United States Environmental Protection Agency’s Risk Assessment Division.
 
-My expertise is in `data science` (GIS, statistics, AI/ML), but I also have background in social science, public policy, and biology. I am currently working in the consulting industry serving government clients.
+My expertise is in `data science` (GIS, statistics, AI/ML), but I also have background in social science, public policy, and biology.
